@@ -287,3 +287,32 @@ main {
 .span {
   font-size: 28px;
 }
+}
+.subscription__plan-feature {
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 2;
+}
+.subscription__plan-button-active {
+  font-family: "Dm sans", sans-serif;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.53px;
+  padding: 17px 80px;
+  line-height: 7;
+  background: #9f3919;
+  border-radius: 10px;
+}
+.subscription__plan-button {
+  font-family: "Dm sans", sans-serif;
+  color: var(--purpule);
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.53px;
+  padding: 17px 80px;
+  line-height: 7;
+  background: #ffffff;
+  border-radius: 10px;
+}
