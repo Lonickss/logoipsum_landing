@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Lonickss.github.io/logoipsum_landing",
+  "homepage": "https://lonickss.github.io/logoipsum_landing",
 
   "scripts": {
    "deploy": "gh-pages -d ."
