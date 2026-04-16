@@ -1,0 +1,13 @@
+{
+  "name": "logoipsum-landing",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://lonickss.github.io/logoipsum_landing",
+  "scripts": {
+    "predeploy": "npm install",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

@@ -247,6 +247,7 @@ main {
   cursor: pointer;
   font-family: "DM sans", sans-serif;
   font-weight: 700;
+
   font-size: 16px;
   letter-spacing: -0.5px;
   border: none;
@@ -287,7 +288,10 @@ main {
 .span {
   font-size: 28px;
 }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> d0190f8 (123)
 .subscription__plan-feature {
   font-family: "Mulish", sans-serif;
   font-weight: 300;
